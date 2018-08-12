@@ -1,1 +1,1 @@
-# mad.github.io
+# Awesome landing page for an awesome domain
